@@ -7,5 +7,4 @@ const goodMorning = function () {
 
 console.log(helloWorld());
 
-console.log("Hello again");
-console.log("potatoes");
+console.log("Almost there!");
